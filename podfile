@@ -1,0 +1,5 @@
+platform :ios, '9.0'
+target "CSDemo" do
+pod 'CheckManager',:path => 'Lib/CheckManager'
+pod 'ViewExt',:path => 'Lib/ViewExt'
+end

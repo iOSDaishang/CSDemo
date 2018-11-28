@@ -1,0 +1,27 @@
+{
+  "name": "ViewExt",
+  "version": "0.1.0",
+  "summary": "A short description of ViewExt.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/iOS测试/ViewExt",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iOS测试": "2210967887@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/iOS测试/ViewExt.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ViewExt/Classes/**/*",
+  "dependencies": {
+    "CheckManager": [
+
+    ]
+  }
+}

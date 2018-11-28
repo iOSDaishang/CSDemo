@@ -1,0 +1,22 @@
+PODS:
+  - CheckManager (0.1.0)
+  - ViewExt (0.1.0):
+    - CheckManager
+
+DEPENDENCIES:
+  - CheckManager (from `Lib/CheckManager`)
+  - ViewExt (from `Lib/ViewExt`)
+
+EXTERNAL SOURCES:
+  CheckManager:
+    :path: Lib/CheckManager
+  ViewExt:
+    :path: Lib/ViewExt
+
+SPEC CHECKSUMS:
+  CheckManager: 647edc069497755b967f95a721f0a0f9afa0b394
+  ViewExt: c96510f8de41e72b40d8648b3fa0ec5230106044
+
+PODFILE CHECKSUM: be0ac194a5e3f6da6270d287410426cee2fa1d97
+
+COCOAPODS: 1.5.0
